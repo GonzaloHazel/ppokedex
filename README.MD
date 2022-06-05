@@ -1,4 +1,4 @@
-#Pokedex
+# Pokedex
 ##### Nava Arenas Gonzalo Hazel
 Pokedex usando html, javaScript y css
 **Requisitos**
@@ -7,4 +7,5 @@ Pokedex usando html, javaScript y css
 - navegador web: chrome, edge, zafari, firzilla, etc.
 
 Previsualizacion:
-![Previsualizacion](/pokedex/img/pre.jpeg)
+
+![Previsualizacion](https://github.com/GonzaloHazel/ppokedex/blob/main/img/pre.jpeg)
